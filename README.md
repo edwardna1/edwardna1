@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently doing a software development internship at **Boosted.AI**
 
-- 👯 I’m looking to collaborate on **SYDE.SOCIAL PRofile**
-
 - 🌱 I’m currently learning **React, Python (Django), Ruby on Rails, SQL**
 
 - 📫 How to reach me **ena@uwaterloo.ca**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love dogs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
