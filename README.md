@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently doing a software development internship at **Boosted.AI**
 
-- 🌱 I’m currently learning **React, Python (Django), Ruby on Rails, SQL**
+- 🌱 I’m proficient in **React, Javascript, C++, Python**
 
-- 📫 How to reach me **ena@uwaterloo.ca**
+- 🌱 I’m currently learning **React, Python (Django), Java, SQL**
+
+- 📫 How to reach me: **ena@uwaterloo.ca**
 
 - ⚡ Fun fact **I love dogs!**
 
