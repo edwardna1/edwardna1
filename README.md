@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardna1" alt="edwardna1" /></a> </p>
 
-- 🔭 I’m currently doing a software development internship at **Boosted.AI**
+- 🔭 I have completed my most recent software development internship at **Boosted.AI**
 
 - 🌱 I’m proficient in **React, Javascript, C++, Python**
 
-- 🌱 I’m currently learning **React, Python (Django), Java, SQL**
+- 🌱 I’m currently learning **C++, Python (Django), Java, SQL**
 
 - 📫 How to reach me: **ena@uwaterloo.ca**
 
