@@ -7,9 +7,9 @@
 
 - 🔭 I have completed my most recent software development internship at **Boosted.AI**
 
-- 🌱 I’m proficient in **React, Javascript, C++, Python**
+- 🌱 I’m proficient in **React, Javascript, Typescript, C++, Python, and SQL**
 
-- 🌱 I’m currently learning **C++, Python (Django), Java, SQL**
+- 🌱 I’m currently learning **C++, Java, Swift**
 
 - 📫 How to reach me: **ena@uwaterloo.ca**
 
