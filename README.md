@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">A passionate software developer from the University of Waterloo</h3>
+<h3 align="center">A passionate software engineer from the University of Waterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardna1&label=Profile%20views&color=0e75b6&style=flat-square" alt="edwardna1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardna1" alt="edwardna1" /></a> </p>
 
-- 🔭 I have completed my most recent software development internship at **Sky View Suites*
+- 🔭 I am starting my most recent software engineer internship at **StackAdapt*
 
-- 🌱 I’m proficient in **React, Javascript, Typescript, C++, Python, and Java**
+- 🌱 I’m proficient in **React, Javascript, Typescript, C++, Python, and Java **
 
-- 🌱 I’m currently learning **C++, Java, Swift**
+- 🌱 I’m currently learning **Next.JS, Concurrency**
 
 - 📫 How to reach me: **ena@uwaterloo.ca**
 
