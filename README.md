@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardna1" alt="edwardna1" /></a> </p>
 
-- 🔭 I am starting my most recent software engineer internship at **StackAdapt*
+- 🔭 I am starting my most recent software engineer internship at **StackAdapt**
 
 - 🌱 I’m proficient in **React, Javascript, Typescript, C++, Python, and Java **
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **ena@uwaterloo.ca**
 
-- ⚡ Fun fact **I love dogs!**
+- ⚡ Fun fact **I have white Shiba Inu!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
