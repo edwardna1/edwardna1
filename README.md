@@ -9,11 +9,11 @@
 
 - 🌱 I’m proficient in **React, Javascript, Typescript, C++, Python, and Java **
 
-- 🌱 I’m currently learning **Next.JS, Concurrency**
+- 🌱 I’m currently learning **Next.JS, Mobile App Development*
 
 - 📫 How to reach me: **ena@uwaterloo.ca**
 
-- ⚡ Fun fact **I have white Shiba Inu!**
+- ⚡ Fun fact **I have a white Shiba Inu!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
